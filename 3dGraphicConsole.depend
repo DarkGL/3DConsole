@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1433633615 source:c:\projects\w trakcie\3dgraphicconsole\main.cpp
+	<iostream>
+	<algorithm>
+	"Canvas.h"
+	"Entity.h"
+
+1433633583 c:\projects\w trakcie\3dgraphicconsole\canvas.h
+	<vector>
+	<iostream>
+
+1434635787 c:\projects\w trakcie\3dgraphicconsole\entity.h
+	<vector>
+	<array>
+	<stdexcept>
+	"Point.h"
+	"Vector.h"
+
+1433633943 c:\projects\w trakcie\3dgraphicconsole\point.h
+
+1433634598 c:\projects\w trakcie\3dgraphicconsole\vector.h
+
+1433633654 source:c:\projects\w trakcie\3dgraphicconsole\point.cpp
+	"Point.h"
+
+1434643943 source:c:\projects\w trakcie\3dgraphicconsole\src\cuboid.cpp
+	"Cuboid.h"
+
+1434636412 c:\projects\w trakcie\3dgraphicconsole\include\cuboid.h
+	"Entity.h"
+
+1434753793 c:\projects\w trakcie\3dgraphicconsole\include\entity.h
+	<vector>
+	<array>
+	<stdexcept>
+	<cmath>
+	"Point.h"
+	"Vector.h"
+
+1434654527 c:\projects\w trakcie\3dgraphicconsole\include\point.h
+
+1433634598 c:\projects\w trakcie\3dgraphicconsole\include\vector.h
+
+1433633654 source:c:\projects\w trakcie\3dgraphicconsole\src\point.cpp
+	"Point.h"
+
+1434756695 source:c:\projects\w trakcie\3dgraphicconsole\src\main.cpp
+	<iostream>
+	<algorithm>
+	<conio.h>
+	<Windows.h>
+	"Canvas.h"
+	"Entity.h"
+	"Cuboid.h"
+
+1434756529 c:\projects\w trakcie\3dgraphicconsole\include\canvas.h
+	<vector>
+	<iostream>
+	<string>
+	"Cuboid.h"
+	"Point.h"
+	"Vector.h"
+
